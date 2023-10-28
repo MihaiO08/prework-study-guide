@@ -17,7 +17,7 @@ Use the selector dots just under the top right corner of the browser or apply th
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![Instruction on how to open dev tools from the options menu of the browser](/assets/images/2023-10-28 (1).png)
+![alt text](/assets/images/2023-10-28 (1).png)
 
 After you have opened the dev console, you can refresh the webpage and a new prompt on what to study will be displayer:
 
