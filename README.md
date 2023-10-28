@@ -14,11 +14,11 @@ Navigate to the website.
 
 Use the selector dots just under the top right corner of the browser or apply the shortctu Ctrl+Shift+I to navigate to "developer tools" as shown below:
 
-![image][Instruction on how to open dev tools from the options menu of the browser](/assets/images/2023-10-28 (1).png)
+![Instruction on how to open dev tools from the options menu of the browser](assets/images/2023-10-28 (1).png)
 
 After you have opened the dev console, you can refresh the webpage and a new prompt on what to study will be displayer:
 
-![Demonstration on how refreshing the webpage prompts the user to study a certain subject](/assets/images/2023-10-28 (2).png)
+![Demonstration on how refreshing the webpage prompts the user to study a certain subject](assets/images/2023-10-28 (2).png)
 
 ## Credits
 
